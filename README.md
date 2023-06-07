@@ -8,6 +8,6 @@ https://tjueducn-my.sharepoint.com/:u:/g/personal/luhaoyu_831_tju_edu_cn/EUZwebz
 the noise link :  
 http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/
 
-Sorry, there's been a slight error,
-And links to the latest version of the paper:  
+Sorry, there's been a slight error,  
+and links to the latest version of the paper:  
 https://arxiv.org/abs/2305.17860
