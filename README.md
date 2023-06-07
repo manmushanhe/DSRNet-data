@@ -1,8 +1,13 @@
 # the dataset link for our ICASSP 2023 paper
 ## speech and noise dual-stream spectrogram refine network with speech distortion loss for robust speech recognition
 
+There will be a delay. Please wait one minute.
 the simulated data link:  
 https://tjueducn-my.sharepoint.com/:u:/g/personal/luhaoyu_831_tju_edu_cn/EUZwebz6WANDllOtd_9DI20Bg6Pr98aBA0C_Ni68yY9P-g?e=MChca1
 
 the noise link :  
 http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/
+
+Sorry, there's been a slight error,
+And links to the latest version of the paper: 
+https://ui.adsabs.harvard.edu/abs/2023arXiv230517860L/abstract
