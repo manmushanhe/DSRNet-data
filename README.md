@@ -4,6 +4,6 @@
 There will be a delay. Please wait one minute.
 The simulated data link is: https://tjueducn-my.sharepoint.com/:u:/g/personal/luhaoyu_831_tju_edu_cn/EUZwebz6WANDllOtd_9DI20Bg6Pr98aBA0C_Ni68yY9P-g?e=MChca1
 
-The noise link is:http: http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/
+The noise link is: http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/
 
-Sorry, there's been a slight error in the equation (9), and links to the latest version of the paper: https://arxiv.org/abs/2305.17860
+Sorry, there's been a slight error in the equation (9) in our paper, and links to the latest version of the paper: https://arxiv.org/abs/2305.17860
