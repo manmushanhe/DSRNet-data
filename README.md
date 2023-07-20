@@ -6,4 +6,4 @@ The simulated data link is: https://tjueducn-my.sharepoint.com/:u:/g/personal/lu
 
 The noise link is: http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/
 
-Sorry, there's been a slight error in the equation (9) in our paper, and links to the latest version of the paper: https://arxiv.org/abs/2305.17860
+Sorry, there's been a slight error in the equation (9) in our paper, and the link to the latest version of the paper is: https://arxiv.org/abs/2305.17860
