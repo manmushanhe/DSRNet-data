@@ -6,7 +6,9 @@ The simulated data link is: [DSRNet-data](https://tjueducn-my.sharepoint.com/:u:
 
 The noise link is: [noise-data](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/)
 ## Paper Link
-There's been a slight error in the equation (9) in our paper, and the link to the latest version of the paper is: [new-paper-link](https://arxiv.org/abs/2305.17860)
+There's been a slight error in the equation (9) in our paper, and the link to the latest version of the paper is: [new-paper-link-arxiv](https://arxiv.org/abs/2305.17860)
 
 ## Code
 Our code is based on espnet. You can use it in espnet/egs2/aishell_noise.
+
+## Citation
