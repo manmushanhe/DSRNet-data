@@ -1,0 +1,53 @@
+optim: adam
+init: xavier_uniform
+max_epoch: 50
+batch_type: length
+batch_bins: 2000000 
+num_workers: 5
+optim_conf:
+    lr: 0.001
+    eps: 1.0e-08
+    weight_decay: 1.0e-05
+patience: 3
+num_att_plot: 0
+val_scheduler_criterion:
+- valid
+- loss
+best_model_criterion:
+-   - valid
+    - acc
+    - max
+-   - train
+    - loss
+    - min
+keep_nbest_models: 5
+scheduler: warmuplr
+scheduler_conf:
+    warmup_steps: 30000
+encoder: lstm
+decoder: conv
+decoder_conf:
+    channel: 256
+    kernel_size: 40
+    stride: 20
+
+criterions: 
+  # The first criterion
+  - name: mse 
+    conf:
+      compute_on_mask: false
+      mask_type: IAM
+    # the wrapper for the current criterion
+    # for single-talker case, we simplely use fixed_order wrapper
+    wrapper: fixed_order
+    wrapper_conf:
+      weight: 1.0
+
+model_conf:
+    use_nawrn: true
+    use_frequency_att: false
+    use_frequency_att: false
+    use_adaptive_weight: true
+    use_nawrn_noisy: false
+    use_ratio_two_branch: true
+    use_ratio_one_branch: false
