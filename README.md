@@ -1,9 +1,9 @@
 # DSRN ICASSP 2023
 ## SPEECH AND NOISE DUAL-STREAM SPECTROGRAM REFINE NETWORK WITH SPEECH DISTORTION LOSS FOR ROBUST SPEECH RECOGNITION
 ## Data
-The simulated data link is: [DSRNet-data](https://tjueducn-my.sharepoint.com/:u:/g/personal/luhaoyu_831_tju_edu_cn/EUZwebz6WANDllOtd_9DI20Bg6Pr98aBA0C_Ni68yY9P-g?e=MChca1)
+The simulated data link is: [DSRNet-data](https://tjueducn-my.sharepoint.com/:u:/g/personal/luhaoyu_831_tju_edu_cn/EUZwebz6WANDllOtd_9DI20Bg6Pr98aBA0C_Ni68yY9P-g?e=MChca1).
 
-The noise link is: [noise-data](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/)
+The noise link is: [noise-data](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/).
 
 There may be a delay. Please wait one minute.
 ## Paper Link
