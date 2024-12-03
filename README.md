@@ -1,4 +1,4 @@
-# DSRN ICASSP 2023 paper
+# DSRN ICASSP 2023
 ## speech and noise dual-stream spectrogram refine network with speech distortion loss for robust speech recognition
 ## Data
 There will be a delay. Please wait one minute.
