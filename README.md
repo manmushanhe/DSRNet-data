@@ -9,4 +9,4 @@ The noise link is: http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/
 There's been a slight error in the equation (9) in our paper, and the link to the latest version of the paper is: https://arxiv.org/abs/2305.17860
 
 ## Code
-Our code is based on espnet.
+Our code is based on espnet. You can use it in espnet/egs2/aishell_noise.
