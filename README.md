@@ -7,10 +7,10 @@ The noise link is: [noise-data](http://web.cse.ohio-state.edu/pnl/corpus/HuNonsp
 
 There may be a delay. Please wait one minute.
 ## Paper Link
-There's been a slight error in the equation (9) in our paper, and the link to the latest version of the paper is: [new-paper-link-arxiv](https://arxiv.org/abs/2305.17860)
+There's been a slight error in the equation (9) in our paper, and the link to the latest version of the paper is: [new-paper-link-arxiv](https://arxiv.org/abs/2305.17860).
 
 ## Code
-Our code is based on espnet. You can use it in espnet-dsrn/egs2/aishell_noise.
+Our code is based on espnet. You can see it in espnet-dsrn/egs2/aishell_noise.
 ### Run
 You can run this code with
 ```
