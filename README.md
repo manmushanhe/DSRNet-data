@@ -11,6 +11,12 @@ There's been a slight error in the equation (9) in our paper, and the link to th
 
 ## Code
 Our code is based on espnet. You can use it in espnet-dsrn/egs2/aishell_noise.
+### Run
+You can run this code with
+```
+cd ./espnet-dsrn/egs2/aishell_noise
+bash run_dsrn_fbank.sh
+```
 
 ## Citation
 
