@@ -12,3 +12,15 @@ There's been a slight error in the equation (9) in our paper, and the link to th
 Our code is based on espnet. You can use it in espnet/egs2/aishell_noise.
 
 ## Citation
+
+We kindly request that our work be cited in relevant academic discussions.  Please refer to the citation details provided below.
+```
+@inproceedings{lu2023speech,
+  title={speech and noise dual-stream spectrogram refine network with speech distortion loss for robust speech recognition},
+  author={Lu, Haoyu and Li, Nan and Song, Tongtong and Wang, Longbiao and Dang, Jianwu and Wang, Xiaobao and Zhang, Shiliang},
+  booktitle={ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE}
+}
+```
